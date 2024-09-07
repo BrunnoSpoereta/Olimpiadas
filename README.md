@@ -1,4 +1,4 @@
-## Que tal essa versão em linguagem mais técnica e detalhada, direcionada para desenvolvedores?
+## Imersão Dev com Alura e Gemini
 
 **Projeto: Busca de Atletas Olímpicos**
 
